@@ -12,4 +12,4 @@ This is a code repository of a React.js based web app for an Ecommerce App. It i
 ![image](https://github.com/zhenyu92/ecommerce_app/blob/main/screenshot.JPG)
 
 ### Credits
-This project is a part of the learning series delivered by [JavaScript Mastery](https://github.com/adrianhajdin).
+This project is adapted from a tutorial from [JavaScript Mastery](https://github.com/adrianhajdin).
